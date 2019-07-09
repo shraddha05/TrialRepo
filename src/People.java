@@ -9,33 +9,31 @@ public class People {
 
     }
 
-    People()
-    {
 
-    }
-
-    void public getage()
+    public void getage()
     {
         System.out.println("age is "+this.age);
     }
-    void public setage(int x)
+    public void setage(int x)
     {
         this.age = x;
         System.out.println("age is "+this.age);
     }
 
-    void public getname()
+    public void getname()
     {
         System.out.println("name is "+this.name);
     }
-    void public setname(String x)
+    public void setname(String x)
     {
         this.name = x;
         System.out.println("name is "+this.name);
     }
 
-    void public work()
+    public void work()
     {
         System.out.println("People are crazy!");
     }
+
+
 }

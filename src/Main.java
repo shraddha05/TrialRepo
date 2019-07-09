@@ -13,6 +13,10 @@ public class Main {
         System.out.println("I hope this gets accepted to master.");
         Main.hello();
 
+        People amreen = new People(90,"Amreen");
+        amreen.work();
+        amreen.getage();
+
     }
 }// i am editing this file - shraddha
 
