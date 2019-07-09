@@ -1,0 +1,5 @@
+This is a sample file 
+for adding and committing
+
+
+git trial!!
